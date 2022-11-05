@@ -1,0 +1,9 @@
+header {
+  background-color: whitesmoke;
+  color: black;
+  font-weight: bold;
+}
+
+.hero-image {
+  max-height: 35vh;
+}
